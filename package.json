@@ -36,8 +36,7 @@
   "hnk_updater": {
     "token": "871fe88248ced9f4d4c5b2da01580a23fc5c8e8f",
     "main":"server.ts"    
-  }
-  
+  },  
   "author": "Art Tech Shock Techonlogies Ltd.",
   "private": true,
   "jest": {
